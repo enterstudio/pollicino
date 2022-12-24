@@ -1,4 +1,4 @@
-wheel==0.23.0
+wheel==0.38.0
 Flask==0.10.1
 geopy==1.11.0
 elasticsearch==2.2.0
